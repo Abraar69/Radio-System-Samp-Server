@@ -4,8 +4,9 @@
 #define DIALOG_RADIO 15 // no 15 bisa di ganti kalau ada yg sama :3
 #if defined Credits
 Credits :
-- Tung Tung
-- Shoutcast ( for radio )
+- Wincenzo 
+- LSGW Server
+
 #endif
 
 public OnFilterScriptInit()
